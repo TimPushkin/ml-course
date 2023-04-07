@@ -19,5 +19,5 @@
 *.mp4
 
 # Other
-solutions/*.csv
-solutions/catboost_info
+solutions/*
+!solutions/task*.ipynb
